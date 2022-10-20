@@ -1,0 +1,20 @@
+10|Zanahorias|9.99
+253|Macarrones|449.99
+666|Choclo|1.99
+14|Milanesa|99.99
+12|Choripan|9.99
+65|Chococrispi|2.99
+187|Empanada|6.99
+412|Patata|0.99
+2342|werewe|13.23
+2341|faawefewa|324.2
+Producto Numero  11   IdProducto:  10   Nombre:  Zanahorias   Precio:  9.99
+Producto Numero  12   IdProducto:  253   Nombre:  Macarrones   Precio:  449.99
+Producto Numero  13   IdProducto:  666   Nombre:  Choclo   Precio:  1.99
+Producto Numero  14   IdProducto:  14   Nombre:  Milanesa   Precio:  99.99
+Producto Numero  15   IdProducto:  12   Nombre:  Choripan   Precio:  9.99
+Producto Numero  16   IdProducto:  65   Nombre:  Chococrispi   Precio:  2.99
+Producto Numero  17   IdProducto:  187   Nombre:  Empanada   Precio:  6.99
+Producto Numero  18   IdProducto:  412   Nombre:  Patata   Precio:  0.99
+Producto Numero  19   IdProducto:  2342   Nombre:  werewe   Precio:  13.23
+Producto Numero  20   IdProducto:  2341   Nombre:  faawefewa   Precio:  324.2
